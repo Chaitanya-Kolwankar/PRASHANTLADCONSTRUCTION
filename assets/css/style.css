@@ -1504,6 +1504,6 @@ section {
       left bottom,
       left top,
       color-stop(0.44, #67b0d1),
-      color-stop(0.72, #67b0d19f),
-      color-stop(0.86, #67b0d17c));
+      color-stop(0.72, #67b0d1),
+      color-stop(0.86, #67b0d1));
 }
